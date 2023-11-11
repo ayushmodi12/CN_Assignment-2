@@ -3,7 +3,7 @@
 **Team Members:**
 
 Name: Ayush Modi, Roll Number: 21110039  
-Name: Ansih Karnik, Roll Number: 21110098  
+Name: Anish Karnik, Roll Number: 21110098  
 
 **Instructions:**
 
