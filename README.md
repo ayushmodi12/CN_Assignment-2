@@ -9,7 +9,15 @@ Name: Anish Karnik, Roll Number: 21110098
 
 For Part 1:
 
+For questions (a) and (b), the code is in the file part1.py  
+
+Thus for (a) and (b), 
 Run the file named part1.py. 
+
+For question (c), the code is in the file part1_qc.py  
+
+Thus for (c), 
+Run the file named part1_qc.py
 
 For Part 2:
 
